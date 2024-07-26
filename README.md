@@ -1,0 +1,1 @@
+PAR4 was originally developed as a self-sustaining lending application advocated in giving back to its members and community, where borrowers can earn dividends based on active loans and receive cashbacks on accrued interest. It is a private protocol that operates solely for the exclusive advantage of its members and community, devoid of capital stock represented by shares.
